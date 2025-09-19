@@ -6,7 +6,8 @@ Command a massive moss-covered boulder as it thunders down through a haunting sw
 
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange.svg)](https://www.rust-lang.org)
 [![Bevy](https://img.shields.io/badge/bevy-0.11-blue.svg)](https://bevyengine.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/saedarm/valleycrush
+)](LICENSE)
 
 ---
 
